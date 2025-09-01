@@ -29,22 +29,10 @@
 
 
 
-
-
-### Creators :zap::dizzy:
-<table>
-		<tr>
-			<td align="center"><img src="https://i.imgur.com/e2DMxRN.jpg"  width=100px;"><br /><sub><b>Dhruv Kothari</b></sub><br/><a href="https://github.com/kothariji">🧠👨‍💻🚀❤️</a></td>
-		   <td align="center"><img src="https://i.imgur.com/iWdUqU7.jpg"  width=100px;"><br /><sub><b>Akash Salvi</b></sub><br/><a href="https://github.com/Akash-Salvi">🧘🔭👨‍🎓👽</a></td>
-			<td align="center"><img src="https://i.imgur.com/D1ogusY.jpg"  width=100px;"><br /><sub><b>Nishant Handge</b></sub><br/><a href="https://github.com/Nishant127">💻📱👨‍💻💥</a></td>			
-		</tr>
-		
-</table>
-
 ### How to Run Locally
 Run the below command to clone the repo locally
 ```
-git clone https://github.com/kothariji/SyntaxMeets.git
+git clone https://github.com/vishwajeet0001/SyntaxMeets.git
 ``` 
 
 ### To run the server, go to the server folder in the backend directory and Run 
